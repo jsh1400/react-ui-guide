@@ -1,14 +1,14 @@
-# demo reactjs persian calendar
+# demo react ui guide
 
-![reactjs persian calendar](https://raw.githubusercontent.com/jsh1400/reactjs-persian-calendar/master/docs/reactjs-persian-calendar.png)
+![react-ui-guide](https://raw.githubusercontent.com/jsh1400/react-ui-guide/master/docs/react-ui-guide.png)
 
 ```
-git clone https://github.com/jsh1400/reactjs-persian-calendar.git
-cd reactjs-persian-calendar
+git clone https://github.com/jsh1400/react-ui-guide.git
+cd react-ui-guide
 npm i 
 npm start
 ```
-[reactjs persian calendar docs](https://jsh1400.github.io/reactjs-persian-calendar/)
+[react-ui-guide docs](https://jsh1400.github.io/react-ui-guide/)
 
 
 >Javad Shariati <jsh1400@yahoo.com>
